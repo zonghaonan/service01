@@ -47,6 +47,7 @@
             <groupId>com.netflix.feign</groupId>
             <artifactId>feign-okhttp</artifactId>
         </dependency>
+<!--        fastjson依赖-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
