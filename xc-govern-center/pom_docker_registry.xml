@@ -31,7 +31,7 @@
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
                 <version>1.2.2</version>
-                <!--                <!‐‐docker镜像相关的配置信息‐‐>-->
+                <!--                <!‐‐docker 镜像相关的配置信息‐‐>-->
                 <configuration>
                     <!--                    <!‐‐镜像名，这里用工程名‐‐>-->
                     <imageName>${project.artifactId}-${project.version}</imageName>
