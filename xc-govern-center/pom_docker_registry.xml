@@ -41,7 +41,9 @@
                     <imageTags>
                         <imageTag>${project.version}</imageTag>
                     </imageTags>
-                    <imageName>${project.artifactId}:${project.version}</imageName>
+                    <registryUrl>39.99.53.37:5000</registryUrl>
+                    <pushImage>true</pushImage>
+                    <imageName>39.99.53.37:5000/${project.artifactId}:${project.version}</imageName>
                     <!--                    <!‐‐构建镜像的配置信息‐‐>-->
                     <resources>
                         <resource>
