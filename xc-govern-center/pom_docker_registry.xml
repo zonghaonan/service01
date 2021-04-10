@@ -30,7 +30,7 @@
                 <!-- https://mvnrepository.com/artifact/com.spotify/docker-maven-plugin -->
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
-                <version>1.2.2</version>
+                <version>1.0.0</version>
                 <!--                <!‐‐docker镜像相关的配置信息‐‐>-->
                 <configuration>
                     <!--                    <!‐‐镜像名，这里用工程名‐‐>-->
